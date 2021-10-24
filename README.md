@@ -1,11 +1,17 @@
 
 
+<img src="https://komarev.com/ghpvc/?username=kimeneshu&label=Ziyaretçi%20Sayısı&color=552b75" alt="kimeneshu" />
+
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/324130263036723200 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/242001571850747908
+                                                                                       )](https://discord.com/users/242001571850747908)
+)](https://discord.com/users/324130263036723200)
+
 
 ```js
-class schutzstaffel{
+class kimene{
   constructor(...options) {
     this.height = "1.84"
-    this.weight = "55"
+    this.weight = "70"
     this.type = "human"
     this.job = "student"
     this.sex = "male"
@@ -40,13 +46,7 @@ class CreateMan extends kimeneshu {
 let kimeneshu = new CreateMan()
 kimeneshu.createDay();
 ```
-<img src="https://komarev.com/ghpvc/?username=kimeneshu&label=Ziyaretçi%20Sayısı&color=552b75" alt="kimeneshu" />
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/324130263036723200
-)](https://discord.com/users/324130263036723200)
-
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/242001571850747908
-                            )](https://discord.com/users/242001571850747908)
 
 
 

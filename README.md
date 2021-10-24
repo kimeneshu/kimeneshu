@@ -43,10 +43,9 @@ kimeneshu.createDay();
 <img src="https://komarev.com/ghpvc/?username=kimeneshu&label=Ziyaretçi%20Sayısı&color=552b75" alt="kimeneshu" />
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/324130263036723200
-)](https://discord.com/users/324130263036723200)
-
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/242001571850747908
+)](https://discord.com/users/324130263036723200)      [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/242001571850747908
 )](https://discord.com/users/242001571850747908)
+
 
 ## 🔧 Languages
 - ![](https://img.shields.io/badge/Code-JavaScript-black?style=flat-square&logo=javascript&logoColor=brightgreen)

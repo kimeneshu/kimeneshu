@@ -25,4 +25,4 @@ class kimene{
 - 
 <h3>🌟 Contacts!</h3>
 <p align="center">
-     <a href="https://www.instagram.com/kimeneshu" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+     <a href="https://www.instagram.com/kimeneshuu" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>

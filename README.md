@@ -13,8 +13,8 @@ class kimene{
 <img src="https://komarev.com/ghpvc/?username=kimeneshu&label=Ziyaretçi%20Sayısı&color=552b75" alt="kimeneshu" />
 
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/239028365581877249?hideDiscrim=true)](https://discord.com/users/239028365581877249)
-
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/239028365581877249?hideDiscrim=true)](https://discord.com/users/434423480583323650)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/239028365581877249?hideDiscrim=true)](https://discord.com/users/373811072920190976)
 
 
 ## 🔧 Languages

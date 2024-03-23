@@ -14,7 +14,7 @@ class kimene{
 
 
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/434423480583323650?hideDiscrim=true)](https://discord.com/users/434423480583323650)
+
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/373811072920190976?hideDiscrim=true)](https://discord.com/users/373811072920190976)
 
 
